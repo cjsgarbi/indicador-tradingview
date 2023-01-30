@@ -1,0 +1,2 @@
+# indicador-tradingview
+indicador tradingview
